@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087367393380",
+    "project_id": "react-f22a9",
+    "storage_bucket": "react-f22a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087367393380:android:02815ecafbe413019e2f71",
+        "android_client_info": {
+          "package_name": "com.todomettingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087367393380-5ovqcffv2tqa3vldbo40utsb1ilo08ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1p_LQ7PAzzkAYkBIJQg_IVE4GeTVlSgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087367393380-5ovqcffv2tqa3vldbo40utsb1ilo08ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
